@@ -1,0 +1,20 @@
+{
+  "name": "minni-composer-aliases",
+  "private": true,
+	"version": "1.0.0",
+  "description": "Aliases plugin for minni.im composer. Detects patterns and replaces them before sending messages to server",
+  "main": "plugin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minni-im/minni-composer-aliases.git"
+  },
+  "author": "Benoit Charbonnier <benoit.charbonnier@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minni-im/minni-composer-aliases/issues"
+  },
+  "homepage": "https://github.com/minni-im/minni-composer-aliases#readme"
+}
