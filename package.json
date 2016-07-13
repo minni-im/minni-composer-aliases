@@ -2,8 +2,10 @@
   "name": "minni-composer-aliases",
   "private": true,
 	"version": "1.0.0",
-  "description": "Aliases plugin for minni.im composer. Detects patterns and replaces them before sending messages to server",
   "main": "plugin/index.js",
+  "version": "1.0.0",
+  "description": "Minni.im composer plugin. Detects and replaces dynamic aliases from your messages",
+  "browser": "plugin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
